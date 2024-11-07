@@ -1,3 +1,5 @@
+setuptools
+distlib
 numpy
 pickle-mixin==1.0.2
 streamlit==1.21.0
